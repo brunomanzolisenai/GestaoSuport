@@ -19,7 +19,7 @@ namespace GestaoSuport
 
         private void btnEntrar(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Bem Vindo ao Sistema!");
         }
     }
 }
