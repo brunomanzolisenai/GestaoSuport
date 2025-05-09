@@ -19,7 +19,8 @@ namespace GestaoSuport
 
         private void btnEntrar(object sender, EventArgs e)
         {
-            MessageBox.Show("Bem Vindo ao Sistema!");
+            MessageBox.Show("Estive por aqui! (Marcos é corno)");
+
         }
     }
 }
